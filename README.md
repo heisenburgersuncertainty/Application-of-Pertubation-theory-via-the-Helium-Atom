@@ -14,10 +14,18 @@ THE PROJECT:
 I have used David J. Griffiths "Introduction to Quantum Mechanics" which is the standard text in undergraduate Quantum Mechanics/Physics 1 (usually a 300/400 level course depending on the school) in the English speaking world to find the formula's for the Hamiltonian of a Helium Atom (The Hamiltonian is a variable in Quantum Mechanics that symbolizes the total energy within a system).
 
 
+
 THINGS I HAD TO LEARN TO DO THIS PROJECT:
 
 1: Partial Differentiation (Multivariable Calculus)
 2: Integration in multiple dimensions (Multivariable Calculus)
 3: Solving Partial Differential Equations
 4: Eigenstate Problems in Quantum Mechanics
-5: Advanced Techniques in Scientific Computing in C
+5: Advanced Techniques in Scientific Computing in C++
+
+
+
+RESOURCES USED:
+
+"Introduction to Quantum Mechanics" David J. Griffiths
+"Quantum Chemistry with Applications in Spectroscopy" Patrick Fleming
